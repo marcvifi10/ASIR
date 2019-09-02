@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+  <channel>
+    <title>MIS NOTICIAS</title>
+    <link>http://www.mundodeportivo.com/servicios/rss/index.html</link>
+    <description>Últimas noticias deportivas</description>
+    <item>
+      <title>Clubs</title>
+      <link>http://www.mundodeportivo.com/feed/rss/futbol/fc-barcelona</link>
+      <description>Últimas noticias sobre el F.C.Barcelona</description>
+    </item>
+    <item>
+      <title>Baloncesto</title>
+      <link>http://www.mundodeportivo.com/feed/rss/baloncesto</link>
+      <description>Últimas noticias sobre baloncesto</description>
+    </item>
+  </channel>
+</rss>
+
+

@@ -1,0 +1,2 @@
+Obrir sempre en el visual studio "ConsoleApplication19"
+C:\Users\Marc\Documents\Visual Studio 2013\Projects\ConsoleApplication19\ConsoleApplication19\bin\Debug

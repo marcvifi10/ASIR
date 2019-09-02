@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="facturas.xslt"?>
+<factura>
+  <client>
+    <dni>41602193-T</dni>
+    <nom>Marc</nom>
+    <cognom1>villalobos</cognom1>
+    <cognom2>Figueras</cognom2>
+    <direcció>C/Sol nº21</direcció>
+    <població>Castell-Platja d'Aro i S'agaró</població>
+    <província>Girona</província>
+  </client>
+  <detallsfactura>
+    <linia>
+      <descripció>Material pel club de tennis "Topten tennis club" situat al municipi de Sta. Cristina</descripció>
+      <companyia>Tennis Store</companyia>
+      <productes>2 raquetes, 2 raqueters, 2 de cordatge i 2 grips</productes>
+      <preu_Total>310 euros</preu_Total>
+      <iva>21%</iva>
+    </linia>
+    <linia>
+      <descripció>Material pel club de tennis "Topten tennis club" situat al municipi de Sta. Cristina</descripció>
+      <companyia>Tennis Store</companyia>
+      <productes>2 raquetes, 2 raqueters, 2 de cordatge i 2 grips</productes>
+      <preu_Total>310 euros</preu_Total>
+      <iva>21%</iva>
+    </linia>
+  </detallsfactura>
+</factura>

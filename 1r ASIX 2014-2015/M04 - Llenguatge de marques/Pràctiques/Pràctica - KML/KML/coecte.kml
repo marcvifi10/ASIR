@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <Placemark>
+    <name>Catell-Platja d'Aro i s'Agaró</name>
+    <description>Poble de la Costa Brava</description>
+    <Point>
+      <coordinates>3.030425,41.814437,0</coordinates>
+    </Point>
+  </Placemark>
+  </Document>
+</kml>

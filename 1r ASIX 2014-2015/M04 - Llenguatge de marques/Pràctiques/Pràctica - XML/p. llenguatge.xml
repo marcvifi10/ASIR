@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Equip_de_tennis>
+  <Jugador_1 id="1">
+    <nom>Marc</nom>
+    <cognom1>Villalobos</cognom1>
+    <edat>18 anys</edat>
+    <numero_equip>1</numero_equip>
+  </Jugador_1>
+  <Jugador_2 id="2">
+    <nom>Adrián</nom>
+    <cognom1>Vegas</cognom1>
+    <edat>17 anys</edat>
+    <numero_equip>2</numero_equip>
+  </Jugador_2>
+ <Jugador_3 id="3">
+  <nom>Manel</nom>
+  <cognom1>Mercader</cognom1>
+  <edat>16 anys</edat>
+  <numero_equip>3</numero_equip>
+ </Jugador_3>
+<Jugador_4 id="4">
+  <nom>Pau</nom>
+  <cognom1>Sánchez</cognom1>
+  <edat>16 anys</edat>
+  <numero_equip>4</numero_equip>
+ </Jugador_4>
+</Equip_de_tennis>

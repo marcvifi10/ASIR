@@ -1,0 +1,18 @@
+<!ELEMENT centreRecanvis (raoSocial, nif, direcció, telèfon, marca, llistaModels, llistaRecanvis)>
+<!ELEMENT raoSocial (#PCDATA)>
+<!ELEMENT nif (#PCDATA)>
+<!ELEMENT direcció (#PCDATA)>
+<!ELEMENT telèfon (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT llistaModels (model+)>
+<!ELEMENT model (nom, cilindrada, anyInici, anyFinal)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT cilindrada (#PCDATA)>
+<!ELEMENT anyInici (#PCDATA)>
+<!ELEMENT anyFinal (#PCDATA)>
+<!ELEMENT llistaRecanvis (recanvi+)>
+<!ELEMENT recanvi (nom, referencia, pvp)>
+<!ELEMENT referencia (#PCDATA)>
+<!ELEMENT pvp (#PCDATA)>
+<!ATTLIST model codi ID #REQUIRED>
+<!ATTLIST recanvi codiMoto ID #REQUIRED>
