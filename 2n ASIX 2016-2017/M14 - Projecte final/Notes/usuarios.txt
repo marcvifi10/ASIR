@@ -1,0 +1,24 @@
+UBUNTU SERVER - SERVIDOR 1:
+-usuario: copadelaliga
+
+DEBIAN 8 - SERVIDOR 2:
+-root: copadelaliga
+-usuario: copadelaliga
+-usercopadelaliga: copadelaliga (bdd per fer les pàgines PHP)
+
+WINDOWS 7 - TRABAJADOR 1:
+-treballador1: trabajador1
+
+DEBIAN 7 - TREBALLADOR 3:
+-root: copadelaliga
+-treballador3: treballador3
+-Per accedir al Thunderbird: /home/treballador3/Descargar/thunderbird/thunderbird
+
+Correu:
+-root
+-copadelaliga
+-treballadorpc1
+-treballadorpc2
+-treballadorpc3
+
+Xarxa: 172.28.22.0/16
