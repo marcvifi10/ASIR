@@ -1,0 +1,87 @@
+OFICINA 1:
+
+-Armari Rack 9U:			(103 euros)				=		103 euros
+	-2 Patch panel de 16 ports	(29 euros / unitat)			=		58 euros
+	-2 guies			(14 euros / unitat)			=		28 euros
+	-2 switch de 16 ports		(82 euros / unitat)			=		164 euros
+	-Endolls 			(18 euros / unitat)			=		18 euros
+-29 RJ45 femelles			(3 euros / unitat)			=		87 euros
+-54 metres de canaleta			(3.17 euros / 2 metres)			=		85.6 euros
+-Cable: 345 m de cable			(202 euros / 500 metres)		=		ABAIX	
+
+
+OFICINA 2:
+
+-Armari Rack 9U:			(103 euros)				=		103 euros	
+	-2 Patch panel de 16 ports	(29 euros / unitat) 			=		58 euros
+	-2 guies			(14 euros / unitat)			=		28 euros
+	-2 switch de 16 ports		(82 euros / unitat)			=		164 euros
+	-Endolls 			(18 euros / unitat)			=		18 euros
+-29 RJ45 femelles			(3 euros / unitat)			=		87 euros
+-54 metres de canaleta			(3.17 euros / 2 metres)			=		85.6 euros
+-Cable: 345 m de cable			(202 euros / 500 metres)		=		ABAIX		
+
+
+PLANTA BAIXA:
+
+-Armari Rack 9U:			(103 euros)				=		103 euros
+	-2 Patch panel de 16 ports	(29 euros / unitat) 			=		58 euros
+	-2 guies			(14 euros / unitat)			=		28 euros
+	-2 switch de 16 ports		(82 euros / unitat)			=		164 euros
+	-Endolls 			(18 euros / unitat)			=		18 euros
+-29 RJ45 femelles			(3 euros / unitat)			=		87 euros
+-54 metres de canaleta 			(3.17 euros / 2 metres)			=		85.6 euros
+-Cable: 345 m de cable			(202 euros / 500 metres)		=		ABAIX		
+
+
+PLANTA INTERMITGA:
+
+-Armari Rack 9U:			(103 euros)				=		103 euros
+	-1 patch panel de 48 ports + 1 patch panel 24 ports (90 euros / 70 euros)=		160 euros
+	-3 guies			(14 euros / unitat)			=		28 euros
+	-3 switchs de 24 ports		(113 / unitat)				=		339 euros
+	-Endolls			(18 euros / unitat)			=		18 euros
+-63 RJ45 famella			(3 euros / unitat)			=		189 euros
+-99 metres de canaleta			(3.17 euros / 2 metres)			=		158.5 euros
+-Cable: 924 metres	 		(202 euros / 500 metres)		=		ABAIX
+
+
+PLANTA ALTA:
+
+-Armari Rack 9U:			(103 euros)				=		103 euros
+	-1 patch panel de 48 ports	(90 euros)				=		90 euros
+	-2 guia				(14 euros / unitat)			=		28 euros
+	-1 switch de 24 ports + 1 switch de 16 ports	(113 / unitat) (82 euros / unitat)=	195 euros
+	-Endolls 			(18 euros / unitat)			=		18 euros
+-32 RJ45 famella			(3 euros / unitat)			=		96 euros
+-56 metres de canaleta 			(3.17 euros / 2 metres)			=		88.8 euros
+-Cable: 353 metres 			(202 euros / 500 metres)		=		ABAIX
+
+
+SALA TANCADA:
+
+-Armari RACK 24u:			(390 euros)				=		390 euros
+	-1 Switch de 24 ports		(113 / unitat)				=		113 euros
+	-1 patch panel de 12 ports	(31 euros)				=		31 euros
+	-1 Guia				(14 euros / unitat)			=		14 euros
+	-Router				(176 euros / unitat)			=		176 euros
+	-Safata 			(11 euros / unitat)			=		11 euros
+	-Endolls			(18 euros / unitat)			=		18 euros
+-Armari RACK 9U:			(103 euros / unitat)			=		103 euros	
+	-1 switch de 16 ports		(82 euros / unitat)			=		82 euros
+	-1 patch panel de 16		(29 euros / unitat) 			=		29 euros
+	-1 guia				(14 euros / unitat)			=		14 euros
+	-Endolls			(18 euros / unitat)			=		18 euros
+-12 RJ45 famella			(3 euros / unitat)			=		36 euros
+-15 metres de canaleta			(3.17 euros / 2 metres)			=		25.4 euros
+-Cable: 10 metres del Rack de la última planta al rack principal 	(202 euros / 500 metres) = ABAIX
+	50 metres
+
+
+-RJ45 mascles (8 euros / 25 unitats)(x3) 					=		24 euros 
+
+TOTAL DE 2372 METRES DE CABLE 							= 		901 euros
+
+
+PRESSUPOST TOTAL MATERIAL = 5230.5 EUROS EN MATERIAL
+FALTA LA MÀ D'OBRA!!! (2 mesos)

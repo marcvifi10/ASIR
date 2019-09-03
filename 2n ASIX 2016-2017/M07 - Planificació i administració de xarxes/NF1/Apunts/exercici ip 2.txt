@@ -1,0 +1,53 @@
+PC1: 192.168.0.10 /24 -> màscara 24 bits de 32 255.255.255.0
+x: 10.0.0.0 /24
+PC2: 172.16.1.11 /16
+x: 11.0.0.1 /24
+PC3: 8.8.8.8 /8
+
+
+PC1
+
+IP: 192.168.0.10
+Màscara: 255.255.255.0
+Xarxa: 192.168.0.0
+Gateway: 192.168.0.1
+
+PC2
+
+IP: 172.16.1.11
+Màscara: 255.255.0.0
+Xarxa: 172.16.0.0
+Gateway: 172.16.0.1
+
+PC3
+
+IP: 8.8.8.8
+Màscara: 255.0.0.0
+Xarxa: 8.0.0.0
+Gateway: 8.0.0.1
+
+	T.E A (Router1)
+xarxa		int		mètrica
+192.168.0.0	eth0		C
+10.0.0.0	s0		C
+
+
+	T.E B (Router2)
+xarxa		int		mètrica
+172.16.0.0	eth0		C
+10.0.0.0	s0		C
+11.0.0.0	s1		C
+
+
+	T.E C (Router3)
+xarxa		int		mètrica
+8.0.0.0		eth0		C
+11.0.0.0	s0		C
+
+
+
+Convergim?
+No.
+
+Què cal fer?
+Afegir informació sobre les altres xarxes (rutes estàtiques).

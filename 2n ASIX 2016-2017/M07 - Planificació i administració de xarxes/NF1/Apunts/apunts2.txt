@@ -1,0 +1,67 @@
+DNS
+MX - associació
+info@ajuntamentgi.cat 
+
+1. Socket (identifica la seva aplicació gràcies al port i IP)
+   App
+   Port
+
+2. Control
+   transmissor
+   TCP
+   UDP
+
+qualsevol xarxa:0.0.0.0 	0.0.0.0 	172.17.1.1 (Gateway)
+localhost:	127.0.0.0	255.0.0.0 	127.0.0.1 (jo_mateix)
+		127.255.255.255 255.255.255.255	127.0.0.1
+mi mateix:	172.17.200.105 	255.255.0.0	172.17.200.105
+broadcast:	172.17.255.255 	255.255.255.255	172.17.200.105
+
+IP: X.X.X.X = 32 BITS
+Màscara: m.m.m.m
+	 xarxa.host
+	
+	172.17.200.8
+AND	255.255.0.0
+	172.17.
+
+
+172.17.0.0 = Adreça de xarxa
+172.17.0.1
+.
+.
+.
+172.17.255.254 = Rang
+172.17.255.255 = Broadcast
+
+Cada vegada que li assigno una adreça ip a un PC, el que estem fent es incorporar-lo a la seva xarxa
+Quan configurem una adreça ip en una interficie d'un router automàticament afegeix una entrada al router a aquella xarxa a aquella interficie (que acabem de configurar) directament connectada.
+
+Entrades en una T.E:
+	C - Connectat
+	S* - Defecte
+	S - Estàtica
+	D - Dinàmica
+
+Convergir: poder arribar a tots els dispositius del món.
+
+Enrutament:
+
+-Estàtic: la informació per poder accedir a una altra xarxa s'entra manualment.
+Entrar manualment una ruta.
+
+-Dinàmic: aquesta informació per accedir a una altra xarxa es fa de forma automàtica.
+Els routers es pasen informació. 
+
+TTL: nombre de salts que pot fer un paquet.
+
+1 - Ruta per defecte.
+	Totes les xarxes són accessibles per una interfície.
+
+2 - Ruta estàtica.
+	Informació del següent salt d'una xarxa.
+
+3 - Ruta dinàmica
+	Configurar un router, posar informació de com accedir a una xarxa.
+
+Sumarització: agrupament de xarxes. La ruta per defecte, es la màxima que puc fer sumarització.

@@ -1,0 +1,20 @@
+Capa d'enllaç:
+	-Trama (PDU). Adreça MAC.
+	-Acces al medi. Controlar com accedim al medi.
+
+NIC (Network Interace Card), engloba la capa d'enllaç i la capa física (capa 1 i 2).
+
+LLC: Creació de la trama.
+MAC: Direcciona la trama.
+
+Simplex.
+
+Half Duplex: Un sol medi que ens permet la bidericcionalitat. No poden transmetre i rebre en els medis al mateix temps. Exemple: walkie-talkie
+
+Full Duplex: Els dos dispositius poden transmetre i rebre informació en els medis al mateix temps.
+
+Topologies lògiques:
+	-Punt a punt: Connexió directe entre els dos dispositius. Totes les dades, només poden anar en una direcció.
+	-Multiacces: Permet a una quantitat de nodes comunicar-se utilitzant els medis compartits.
+	-Anell: Un dispositiu pot transmetre dades (qui té el token), i com que dona la volta sencera, ens assegurem de que arribi al seu destinatari.
+

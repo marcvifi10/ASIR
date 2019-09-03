@@ -1,0 +1,3 @@
+metode deterministic - utilització d'un token (pot enviar qui té el token)
+hub - només actua en capa física (repetidor, ho envia a tots els nodes sense seleccionar)
+switch - actua en la capa 1 i 2 (física i d'enllaç) (selecciona al destí)

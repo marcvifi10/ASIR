@@ -1,0 +1,48 @@
+Aplicació	- 	Navegador	HTTP/GET
+Presentació	- 	UTF-8	ASCII
+Sessió		- 	Temps de resposta	TCP
+Transport	- 	Ports
+Xarxa		- 	IP
+Enllaç de dades - 	MAC
+Física 		- 	Tipus de connector
+
+OR- 1010
+    1111
+    1111
+
+XOR- 1010 Serà 1 si un es 0 i l'altre 1
+     1100
+     0110
+
+10-A
+11-B
+12-C
+13-D
+14-E
+15-F
+
+201/16 = C9
+1024 = 0100 0000 0000
+         4    0    0    = 400 (16
+
+Comunicacions:
+-missatge: el codifiquem
+-medi: senyalitzar la informació codificada
+
+Encapsulament:
+-PDU			Dades
+-T	Segment		port Dades
+-X	Paquet		IP port Dades
+-E	Trama		MAC IP port Dades
+
+Switch: prendrà decisions amb les adreces MAC
+-E
+-F
+
+Router: prendrà decisions amb les adreces IP
+-R
+-E
+-F
+
+Connexió punt a punt: connexió directe entre dos PC's
+   "     client-servidor: molts PC's connectats a un servidor

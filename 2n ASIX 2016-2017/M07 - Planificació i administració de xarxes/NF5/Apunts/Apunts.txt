@@ -1,0 +1,2 @@
+Hub - dispositiu de capa 1. 
+switch - dispositiu de capa 2. Envia la senyal al port determinat sabent la seva adreça MAC.

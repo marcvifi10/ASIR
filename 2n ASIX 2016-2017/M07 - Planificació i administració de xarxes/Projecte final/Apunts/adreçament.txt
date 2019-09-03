@@ -1,0 +1,71 @@
+PLANTA BAIXA:
+
+	-10 ordinadors
+	-10 telefons ip
+	-10 impressores
+	-3 càmeras ip
+	-2 switch
+
+PLANTA INTERMITJA:
+
+	-21 ordinadors
+	-20 impressores
+	-20 telefons ip
+	-1 projector
+	-3 càmeras ip 
+	-3 switch
+
+PLANTA ALTA:
+
+	-20 ordinadors
+	-20 telèfons ip
+	-2 impressores
+	-3 càmeras ip
+	-2 switch
+
+SALA SERVIDOR:
+
+	-6 servidors
+	-2 switch
+	-1 router
+
+OFICINA 1:
+
+	-10 ordinadors
+	-10 telefons ip
+	-10 impressores
+	-3 càmeres ip
+	-2 switch
+
+OFICINA 2:
+
+	-10 ordinadors
+	-10 telefons ip
+	-10 impressores
+	-3 càmeres ip
+	-2 switch
+
+TOTAl:
+
+	-Ordinadors: 	71 ordinadors.
+	-Telèfons IP: 	70 telèfons IP.
+	-Impressores:	52 impressores.
+	-Càmeres Ip:	15 càmeres IP.
+	-Switch:	13 switchs.
+	-Projector:	1 projector.
+	-Servidors:	6 servidors.
+	-Router:	1 router.
+
+
+TOTAL = 229 IP'S
+
+ASSIGNACIÓ IP: 192.168.1.0 /24 255.255.255.0 CLASSE C
+
+	-Router:
+	-Servidors:
+	-Ordinadors
+	-Projector:
+	-Switch:
+	-Impressores:
+	-Càmeres IP:
+	-Telèfons IP:

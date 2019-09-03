@@ -1,0 +1,40 @@
+. -> agafa com un caracter. Exemple: pan, can, lan...
+
+\ -> agafa com a caracter el caracter que ve darrera d'ell. Exemple: 192 \. 168 \. 1 \. 1 -> agafa els punts com a tal
+
+[] -> [0-9]
+      [Rr]oberto: -Roberto
+		  -roberto
+? -> 123? : 
+	-12 BÉ
+	-123 BÉ
+	-1234 NO
+
++ -> 123+ :
+	-123 BÉ
+	-1233 BÉ
+	-12333 BÉ
+	-122333 NO
+	-12 NO
+
+* -> 123* : 0 o més vegades
+	12 BÉ
+	123 BÉ	
+	1233 BÉ 
+	12333 BÉ
+
+{n} -> [0-9]{5} 23142 Indica el nombre de caracters
+
+() -> agrupar els caràcters
+	Rober(to)? 	Roberto
+
+| -> és com un O
+	pere | imma | joan -> agafara en pere o la imma o en joan
+
+^ -> obliga a començar la recerca pels parametres que li posem 
+	^as -> agafam tot el que comença per "as"
+	[^as] -> agafam tot el que no comenci per "as"
+
+$ -> Busca el que finalitza
+	as$ -> buscam tot el que acaba amb "as"
+

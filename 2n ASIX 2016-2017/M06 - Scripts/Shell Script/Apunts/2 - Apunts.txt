@@ -1,0 +1,10 @@
+1.
+2. cat /etc/passwd | cut -d ":"-f 1,6 | grep '^a'
+3. echo "23/12/2009" | cut -c 7,10
+4. cat numbers.txt | tr [0-9][A-Z] > hiddennumbres.txt 2 > errors.txt
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
